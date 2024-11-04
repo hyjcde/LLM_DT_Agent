@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defects>
+    <defect>
+        <id>IR 0</id>
+        <normalized_id>ir0</normalized_id>
+        <aliases>
+            <alias>IR0</alias>
+            <alias>IR-0</alias>
+            <alias>Defect 0</alias>
+        </aliases>
+        <keywords>
+            <keyword>critical</keyword>
+            <keyword>delamination</keyword>
+            <keyword>southeast</keyword>
+        </keywords>
+        <imageUrl>https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0005_T__2022_12_16_21_07_23.jpg</imageUrl>
+        <summary>Critical Delamination defect with 12 instances at 22.39733593702892, 114.19141530654922, altitude 100.195m</summary>
+        <style>Critical</style>
+        <type>Delamination</type>
+        <amount>12</amount>
+        <severity>Critical</severity>
+        <location>
+            <latitude>22.39733593702892</latitude>
+            <longitude>114.19141530654922</longitude>
+            <altitude>100.195</altitude>
+        </location>
+    </defect>
+    <defect>
+        <id>IR 1</id>
+        <normalized_id>ir1</normalized_id>
+        <aliases>
+            <alias>IR1</alias>
+            <alias>IR-1</alias>
+            <alias>Defect 1</alias>
+        </aliases>
+        <keywords>
+            <keyword>severe</keyword>
+            <keyword>delamination</keyword>
+            <keyword>southeast</keyword>
+        </keywords>
+        <imageUrl>https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0029_T__2022_12_17_17_05_29.jpg</imageUrl>
+        <summary>Severe Delamination defect with 3 instances at 22.39733576702892, 114.19141560654931, altitude 111.569m</summary>
+        <style>Severe</style>
+        <type>Delamination</type>
+        <amount>3</amount>
+        <severity>Severe</severity>
+        <location>
+            <latitude>22.39733576702892</latitude>
+            <longitude>114.19141560654931</longitude>
+            <altitude>111.569</altitude>
+        </location>
+    </defect>
+    <defect>
+        <id>IR 2</id>
+        <normalized_id>ir2</normalized_id>
+        <aliases>
+            <alias>IR2</alias>
+            <alias>IR-2</alias>
+            <alias>Defect 2</alias>
+        </aliases>
+        <keywords>
+            <keyword>light</keyword>
+            <keyword>delamination</keyword>
+            <keyword>southeast</keyword>
+        </keywords>
+        <imageUrl>https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0074_T__2022_12_17_17_49_24.jpg</imageUrl>
+        <summary>Light Delamination defect with 2 instances at 22.397380937028597, 114.19146900652527, altitude 111.911m</summary>
+        <style>Light</style>
+        <type>Delamination</type>
+        <amount>2</amount>
+        <severity>Light</severity>
+        <location>
+            <latitude>22.397380937028597</latitude>
+            <longitude>114.19146900652527</longitude>
+            <altitude>111.911</altitude>
+        </location>
+    </defect>
+    <defect>
+        <id>IR 3</id>
+        <normalized_id>ir3</normalized_id>
+        <aliases>
+            <alias>IR3</alias>
+            <alias>IR-3</alias>
+            <alias>Defect 3</alias>
+        </aliases>
+        <keywords>
+            <keyword>critical</keyword>
+            <keyword>delamination</keyword>
+            <keyword>southeast</keyword>
+        </keywords>
+        <imageUrl>https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0104_T__2022_12_17_17_59_27.jpg</imageUrl>
+        <summary>Critical Delamination defect with 12 instances at 22.397381267028592, 114.19146910652509, altitude 98.552m</summary>
+        <style>Critical</style>
+        <type>Delamination</type>
+        <amount>12</amount>
+        <severity>Critical</severity>
+        <location>
+            <latitude>22.397381267028592</latitude>
+            <longitude>114.19146910652509</longitude>
+            <altitude>98.552</altitude>
+        </location>
+    </defect>
+    <defect>
+        <id>IR 4</id>
+        <normalized_id>ir4</normalized_id>
+        <aliases>
+            <alias>IR4</alias>
+            <alias>IR-4</alias>
+            <alias>Defect 4</alias>
+        </aliases>
+        <keywords>
+            <keyword>critical</keyword>
+            <keyword>delamination</keyword>
+            <keyword>southeast</keyword>
+        </keywords>
+        <imageUrl>https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0131_T__2022_12_17_18_07_41.jpg</imageUrl>
+        <summary>Critical Delamination defect with 7 instances at 22.3973804370286, 114.19147000652553, altitude 88.44m</summary>
+        <style>Critical</style>
+        <type>Delamination</type>
+        <amount>7</amount>
+        <severity>Critical</severity>
+        <location>
+            <latitude>22.3973804370286</latitude>
+            <longitude>114.19147000652553</longitude>
+            <altitude>88.44</altitude>
+        </location>
+    </defect>
+</defects>

@@ -1,0 +1,40 @@
+ICRA 2025 Review Form
+Paper #: 853
+Title: DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models
+
+Technical Quality (1-5): 4
+Impact/Importance (1-5): 4
+Clarity/Writing (1-5): 4
+Novelty (1-5): 3
+Overall Score (1-10): 8
+
+Recommendation: Minor Revision
+The paper presents a solid contribution to robotic task planning that is well-aligned with ICRA's focus on robotic systems. While the components are not individually novel, their integration and application to robotics represents a valuable contribution to the field. The suggested revisions are manageable within the conference timeline.
+
+Summary:
+This paper presents DELTA, a system integrating LLMs with scene graphs for robotic task planning. The approach demonstrates significant practical improvements in planning efficiency and success rates, which is particularly relevant for real-world robotic applications.
+
+Major Strengths:
+C1. The technical implementation is robust and well-suited for robotics applications. The five-step pipeline effectively addresses key challenges in robotic task planning, particularly the crucial aspect of computational efficiency.
+
+C2. The empirical evaluation follows rigorous robotics research standards, with extensive comparisons across multiple domains and quantitative metrics (success rates, planning time, plan length, expanded nodes) that are highly relevant to robotic systems.
+
+C3. The results show practical significance for robotics: 3000x improvement in planning efficiency and high success rates across various household scenarios that are directly applicable to service robots.
+
+Weaknesses:
+C4. While the integration is effective, each component (LLMs, scene graphs, task decomposition) has been previously explored in robotics literature. The authors should better position their contribution within the robotics community.
+
+C5. The evaluation, while comprehensive in simulation, lacks robotic hardware experiments that would be valuable for an ICRA paper. Even a simple proof-of-concept demonstration would strengthen the work.
+
+C6. The computational requirements and dependency on high-end LLM models need more discussion from a practical robotics deployment perspective.
+
+Suggested Revisions:
+R1. Include a brief discussion or preliminary results with a real robot, even if simplified, to demonstrate practical feasibility.
+
+R2. Expand the discussion on system robustness and failure recovery, which are crucial for robotic applications.
+
+R3. Add analysis of computational requirements and latency considerations for real-time robotic control.
+
+R4. Clarify the specific technical contributions beyond integration, particularly focusing on robotics-specific challenges addressed.
+
+The paper makes a valuable contribution to robotic task planning, and with the suggested minor revisions, it will be a strong addition to ICRA 2025. The focus on practical efficiency improvements and real-world applicability aligns well with the conference's emphasis on robotic systems and applications.

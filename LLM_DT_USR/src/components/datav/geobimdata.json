@@ -1,0 +1,57 @@
+[
+  {
+    "name": "IR 0",
+    "imageUrl": "https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0005_T__2022_12_16_21_07_23.jpg",
+    "style": "Critical",
+    "type": "Delamination",
+    "amount": 12,
+    "severity": "Critical",
+    "latitude": 22.39733593702892,
+    "longitude": 114.19141530654922,
+    "altitude": 100.195
+  },
+  {
+    "name": "IR 1",
+    "imageUrl": "https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0029_T__2022_12_17_17_05_29.jpg",
+    "style": "Severe",
+    "type": "Delamination",
+    "amount": 3,
+    "severity": "Severe",
+    "latitude": 22.39733576702892,
+    "longitude": 114.19141560654931,
+    "altitude": 111.569
+  },
+  {
+    "name": "IR 2",
+    "imageUrl": "https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0074_T__2022_12_17_17_49_24.jpg",
+    "style": "Light",
+    "type": "Delamination",
+    "amount": 2,
+    "severity": "Light",
+    "latitude": 22.397380937028597,
+    "longitude": 114.19146900652527,
+    "altitude": 111.911
+  },
+  {
+    "name": "IR 3",
+    "imageUrl": "https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0104_T__2022_12_17_17_59_27.jpg",
+    "style": "Critical",
+    "type": "Delamination",
+    "amount": 12,
+    "severity": "Critical",
+    "latitude": 22.397381267028592,
+    "longitude": 114.19146910652509,
+    "altitude": 98.552
+  },
+  {
+    "name": "IR 4",
+    "imageUrl": "https://raw.githubusercontent.com/jhzhang2077/Host-images/main/Goodman%20IR/SouthEest/DJI_0131_T__2022_12_17_18_07_41.jpg",
+    "style": "Critical",
+    "type": "Delamination",
+    "amount": 7,
+    "severity": "Critical",
+    "latitude": 22.3973804370286,
+    "longitude": 114.19147000652553,
+    "altitude": 88.44
+  }
+]
